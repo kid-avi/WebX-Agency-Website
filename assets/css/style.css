@@ -1248,6 +1248,6 @@ body {
 .footer-logo {
   display: block;
   margin: 10px auto 0;  /* forces logo to center under text */
-  height: 35px;
+  height: 30px;
   width: auto;
 }
